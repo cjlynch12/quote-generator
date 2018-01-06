@@ -1,0 +1,29 @@
+body {
+  background-color: #8ADCDC;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+.displayBox {
+  heigh: 400px;
+  width: 500px;
+  border-radius: 3px;
+  background-color: #8ADCDC;
+  display: table;
+  color: #fff;
+  font-size: 2em;
+  margin: 10% auto auto auto;
+  text-align: center;
+}
+
+
+.button {
+  border-style: solid;
+  border-color: #fff;
+  height: 42px;
+  color: #fff;
+  background-color: #8ADCDC;
+  display: inline;
+  margin: auto 10px 20px 10px;
+}
